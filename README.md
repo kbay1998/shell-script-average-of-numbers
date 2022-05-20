@@ -1,0 +1,1 @@
+# shell-script-average-of-numbers
